@@ -75,4 +75,3 @@ I am half British, half German and after secondary school in Germany and a B.A. 
 
 I held French research ministry funding for the work on my PhD and that included teaching duties at the EHESS where I taught both German and Anglo-American Historiography seminars, as well as general methodology courses. I have also taught I.T. skills to budding historians in various settings. See the blog I run jointly with Emilien Ruiz: La boîte à outils des historiens [in French]. I now teach British history and IT skills to students working towards English degrees at Paris-Sorbonne.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

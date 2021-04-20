@@ -69,8 +69,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate of EHESS Paris having completed a PhD under the joint supervision of Christophe Prochasson (EHESS Paris) and John Horne (Trinity College Dublin) on military interpreters and more generally on languages in Allied coalition warfare during the First World War. Since September 2015 I have been working at Sorbonne Université, as part of the HDEA research group. More information on my research and other projects I am involved with can be found in the research section of this website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am half British, half German and after secondary school in Germany and a B.A. in England I have lived and worked in Paris on and off since 2005, first spending three years at the École Normale Supérieure while gaining a Masters in history at the EHESS (obtained in 2007), and then working towards my PhD.
+
+I held French research ministry funding for the work on my PhD and that included teaching duties at the EHESS where I taught both German and Anglo-American Historiography seminars, as well as general methodology courses. I have also taught I.T. skills to budding historians in various settings. See the blog I run jointly with Emilien Ruiz: La boîte à outils des historiens [in French]. I now teach British history and IT skills to students working towards English degrees at Paris-Sorbonne.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

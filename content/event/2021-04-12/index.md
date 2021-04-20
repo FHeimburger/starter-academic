@@ -1,8 +1,8 @@
 ---
-title: La rédaction multilingue du traité de Versailles
+title: Example Talk
 
-event: Séminaire "Ecrire la Grande Guerre
-event_url: https://enseignements.ehess.fr/2020-2021/ue/188
+event: Wowchemy Conference
+event_url: https://example.org
 
 location: Wowchemy HQ
 address:
@@ -17,12 +17,12 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-04-12"
-# date_end: "2030-06-01T15:00:00Z"
-all_day: true
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []

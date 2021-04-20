@@ -1,39 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Franziska Heimburger
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Lecturer in British History
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Sorbonne Université
+  url: https://www.sorbonne-universite.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 19th and 20th century cultural history of military conflicts and language policy in military coalitions.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- History of War
+- Languages & History
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in History
+    institution: EHESS Paris
+    year: 2014
+  - course: Diplôme de l'Ecole
+    institution: Ecole Normale Supérieure, Paris
     year: 2008
+  - course: B.A.(hons) in Modern History and Modern Languages (French)
+    institution: Oxford University
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

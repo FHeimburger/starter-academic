@@ -30,6 +30,9 @@ education:
   - course: Diplôme de l'Ecole
     institution: Ecole Normale Supérieure, Paris
     year: 2008
+  - course: Masters in Social Sciences (specialising in History)
+    institution: EHESS Paris
+    year: 2007
   - course: B.A.(hons) in Modern History and Modern Languages (French)
     institution: Oxford University
     year: 2005

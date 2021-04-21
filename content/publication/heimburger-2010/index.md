@@ -1,16 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Getting at Language Use in Translation History through Dictionaries Produced
-  for Interpreters
+title: Getting at Language Use in Translation History through Dictionaries Produced for Interpreters
 subtitle: ''
 summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"communication"'
-- '"me-articles"'
-- '"ownpubs"'
+- '"dictionaries"'
+- '"translation studies"'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-04-20T16:40:38+02:00
@@ -35,6 +33,5 @@ publishDate: '2021-04-20T14:40:37.806035Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*MikaEL - Electronic proceedings of the KäTu symposium on translation
-  and interpreting studies*'
+publication: '*MikaEL - Electronic proceedings of the KäTu symposium on translation and interpreting studies*'
 ---

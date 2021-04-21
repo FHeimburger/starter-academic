@@ -1,15 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mobiliser les compétences linguistiques et culturelles : l'organisation du\
-  \ service de Langues dans l'armé française en Orient pendant la Première Guerre\
-  \ mondiale"
+title: "Mobiliser les compétences linguistiques et culturelles : l'organisation du service de Langues dans l'armée française en Orient pendant la Première Guerre mondiale"
 subtitle: ''
 summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"me-chapters"'
+- '"allied coalition"'
+- '"language policy"'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-20T16:40:41+02:00

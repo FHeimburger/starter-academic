@@ -6,7 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Franziska Heimburger
-tags: []
+tags:
+- '"economic history"'
+- '"finance"'
 categories: []
 date: '2016-01-01'
 lastmod: 2021-04-20T16:40:37+02:00

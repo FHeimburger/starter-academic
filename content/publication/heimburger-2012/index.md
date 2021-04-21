@@ -8,9 +8,7 @@ summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"coalition"'
-- '"me-chapters"'
-- '"ownpubs"'
+- '"allied coalition"'
 categories: []
 date: '2012-01-01'
 lastmod: 2021-04-20T16:40:39+02:00

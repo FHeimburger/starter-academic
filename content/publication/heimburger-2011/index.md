@@ -8,7 +8,8 @@ authors:
 - Franziska Heimburger
 - Émilien Ruiz
 tags:
-- '"me-articles"'
+- '"digital skills"'
+- '"digital history"'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-20T16:40:38+02:00

@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- #certificate_url: http://lettre.ehess.fr/index.php?750
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2010-04-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  organization: EHESS
+  organization_url: https://www.ehess.fr/fr
+  title: Prix Saint-Simon
+  url: http://lettre.ehess.fr/index.php?750
+- #certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2010-05-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Centre International de Recherche de l'Historial de la Grande Guerre
+  organization_url: https://www.historial.fr/ressources/centre-international-de-recherche/presentation-et-missions/
+  title: Bourse de thèse
+  url: https://www.historial.fr/download/laureats-de-2006-a-2014/?wpdmdl=4793&refresh=608052295b8fd1619022377
+- #certificate_url: https://www.datacamp.com
+  date_end: ""
+  date_start: "2013-10-01"
+  description: ""
+  organization: Fond de dotation de l'EHESS
+  organization_url: https://www.ehess.fr/fr
+  title: Bourse d'accomplissement de thèse
+  url: http://lettre.ehess.fr/index.php?6821
 
 design:
   columns: '2' 

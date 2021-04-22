@@ -2,9 +2,8 @@
 title: The British World (1780-2021)
 summary: A third-year class on the British Empire and its legacy at Sorbonne Université
 tags:
-- Third Year
 - British History
-- Undergraduate
+- Undergraduate Teaching
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

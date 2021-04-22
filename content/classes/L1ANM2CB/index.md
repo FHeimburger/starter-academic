@@ -2,9 +2,8 @@
 title: Political, Social, and Cultural History of Britain, 1485-1815
 summary: A first-year introduction to British History at Sorbonne Université
 tags:
-- First Year
 - British History
-- Undergraduate
+- Undergraduate Teaching
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

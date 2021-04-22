@@ -56,7 +56,7 @@ experience:
     description: Teaching methodology and historiography seminars at graduate level while completing PhD.
 
             
-  - title: Funded PhD researcher with teaching duties (Allocataire de rechercher avec monitorat)
+  - title: Funded PhD researcher with teaching duties (Allocataire de recherche avec monitorat)
     company: EHESS
     company_url: ''
     company_logo: EHESS

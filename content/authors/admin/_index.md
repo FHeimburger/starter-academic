@@ -20,6 +20,7 @@ bio: My research interests include 19th and 20th century cultural history of mil
 interests:
 - History of War
 - Languages & History
+- Digital History
 
 # Education to show in About widget
 education:

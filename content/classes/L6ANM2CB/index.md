@@ -6,6 +6,8 @@ tags:
 - Undergraduate Teaching
 date: "2016-04-27T00:00:00Z"
 
+organization: EHESS
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

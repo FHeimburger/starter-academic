@@ -43,9 +43,9 @@ item:
   date_end: ""
   date_start: "2013-10-01"
   description: ""
-  organization: Fond de dotation de l'EHESS
+  organization: EHESS
   organization_url: https://www.ehess.fr/fr
-  title: Bourse d'accomplissement de thèse
+  title: Bourse d'accomplissement de thèse du Fond de dotation
   url: http://lettre.ehess.fr/index.php?6821
 
 design:

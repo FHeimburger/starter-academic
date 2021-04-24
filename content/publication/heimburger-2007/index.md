@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: \"Un trait d'union est nécessaire...\" - Les interprètes militaires français
-  attachś aux troupes britanniques pendant la Premir̀e Guerre Mondiale
+  attachés aux troupes britanniques pendant la Premir̀e Guerre Mondiale
 subtitle: ''
 summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"Allied coalition"'
+- 'Allied coalition'
 categories: []
 date: '2007-01-01'
 lastmod: 2021-04-20T16:40:37+02:00

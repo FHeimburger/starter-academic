@@ -8,7 +8,7 @@ authors:
 - Fritz Kramer
 - Alf Lüdtke
 tags:
-- '"translation"'
+- 'translation'
 categories: []
 date: '2011-02-01'
 lastmod: 2021-04-20T16:40:43+02:00

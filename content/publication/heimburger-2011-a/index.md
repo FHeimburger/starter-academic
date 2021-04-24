@@ -8,8 +8,8 @@ authors:
 - Franziska Heimburger
 - Émilien Ruiz
 tags:
-- '"digital skills"'
-- '"digial history"'
+- 'digital skills'
+- 'digital history'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-20T16:40:38+02:00

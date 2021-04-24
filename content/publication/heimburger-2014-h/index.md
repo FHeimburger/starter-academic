@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"interpreting studies"'
-- '"visual studies"'
-- '"postcards"'
+- 'interpreting studies'
+- 'visual studies'
+- 'postcards'
 categories: []
 date: '2014-01-01'
 lastmod: 2021-04-20T16:40:42+02:00

@@ -9,7 +9,7 @@ summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"interpreting studies"'
+- 'interpreting studies'
 categories: []
 date: '2012-12-01'
 lastmod: 2021-04-20T16:40:40+02:00

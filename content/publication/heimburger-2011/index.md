@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Faire de l'histoire à l'r̀e numérique : retours d'expŕiences"
+title: "Faire de l'histoire à l'ére numérique : retours d'expériences"
 subtitle: ''
 summary: ''
 authors:
 - Franziska Heimburger
 - Émilien Ruiz
 tags:
-- '"digital skills"'
-- '"digital history"'
+- 'digital skills'
+- 'digital history'
 categories: []
 date: '2011-01-01'
 lastmod: 2021-04-20T16:40:38+02:00

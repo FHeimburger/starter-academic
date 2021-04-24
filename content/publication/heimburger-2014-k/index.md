@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Franziska Heimburger
 tags:
-- '"allied coalition"'
+- 'allied coalition'
 categories: []
 date: '2014-11-01'
 lastmod: 2021-04-20T16:40:42+02:00

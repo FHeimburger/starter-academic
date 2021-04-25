@@ -1,6 +1,6 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Writing references for students
+subtitle: I am always happy to write references for past and present students. This includes some information to make the process easier for eceryone
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -9,10 +9,10 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2021-04-125T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2021-04-125T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,13 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- undergraduate teaching
+- graduate teaching
 
 categories:
-- Demo
-- 教程
+- advice
 ---
 
 ## Overview

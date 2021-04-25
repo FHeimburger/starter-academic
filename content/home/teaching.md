@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 69
 
 title: Teaching
 subtitle: ''

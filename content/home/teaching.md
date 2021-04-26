@@ -28,9 +28,9 @@ content:
   - name: All
     tag: '*'
   - name: Undergraduate
-    tag: Undergraduate
+    tag: Undergraduate Teaching
   - name: Graduate
-    tag: Graduate
+    tag: Graduate Teaching
   - name: Other
     tag: Demo
 

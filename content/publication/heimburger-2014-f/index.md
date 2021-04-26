@@ -5,7 +5,7 @@ title: "Mobiliser les compétences linguistiques et culturelles : l'organisation
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'allied coalition'
 - 'language policy'

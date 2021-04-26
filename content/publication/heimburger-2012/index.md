@@ -6,7 +6,7 @@ title: 'Fighting Together: Language Issues in the Military Coordination of First
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'allied coalition'
 categories: []

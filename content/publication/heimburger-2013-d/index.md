@@ -5,7 +5,7 @@ title: Introduction
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 - John Horne
 tags:
 - 'dictionaries'

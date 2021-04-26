@@ -32,7 +32,6 @@ authors:
 - admin
 
 tags:
-- undergraduate teaching
 - graduate teaching
 
 categories:

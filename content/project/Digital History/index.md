@@ -1,15 +1,16 @@
 ---
 title: Digital History
-summary: An example of using the in-built project page.
+summary: I have a long-standing interest in the impact of digital tools and methods on historians and in particularly their training.
 tags:
-- Digital History
-date: "2016-04-27T00:00:00Z"
+- 'Digital History'
+- 'Digital Humanities'
+date: "2021-04-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: By Markus Spiske on Unsplash
   focal_point: Smart
 
 links:

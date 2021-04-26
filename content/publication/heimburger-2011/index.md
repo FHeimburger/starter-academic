@@ -5,7 +5,7 @@ title: "Faire de l'histoire à l'ére numérique : retours d'expériences"
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 - Émilien Ruiz
 tags:
 - 'digital skills'

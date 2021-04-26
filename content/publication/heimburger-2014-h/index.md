@@ -5,7 +5,7 @@ title: Power Relations in Postcards of French First World War Military Interpret
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'interpreting studies'
 - 'visual studies'

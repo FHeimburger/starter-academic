@@ -5,7 +5,7 @@ title: Getting at Language Use in Translation History through Dictionaries Produ
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'dictionaries'
 - 'translation studies'

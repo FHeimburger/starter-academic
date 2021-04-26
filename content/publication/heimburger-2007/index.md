@@ -6,7 +6,7 @@ title: \"Un trait d'union est nécessaire...\" - Les interprètes militaires fra
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'Allied coalition'
 categories: []

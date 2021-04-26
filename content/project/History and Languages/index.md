@@ -1,15 +1,15 @@
 ---
-title: Coalition Warfare - Crimea to Corea
-summary: My main research focus is currently on military coalitions and international interventions from the mid-19th-century onwards
+title: History and Language
+summary: On a methodological level I work on ways of using language and language change as historical evidence.
 tags:
-- Military coalitions
+- Language
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Some of the nations present in China in 1900
+  caption: Pieter Bruegel the Elder - The Tower of Babel (Scan by Google Art Project)
   focal_point: Smart
 
 links:

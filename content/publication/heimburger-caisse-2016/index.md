@@ -5,7 +5,7 @@ title: La Caisse des Dépôts et les conflictualitś - La Première Guerre mondi
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'economic history'
 - 'finance'

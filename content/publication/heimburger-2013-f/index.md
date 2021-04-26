@@ -6,7 +6,7 @@ title: Imagining Coalition Warfare. French and British Military Language Policy 
 subtitle: ''
 summary: ''
 authors:
-- Franziska Heimburger
+- admin
 tags:
 - 'allied coalition'
 - 'pre-war period'

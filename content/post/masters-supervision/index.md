@@ -1,18 +1,18 @@
 ---
-title: Writing references for students
-subtitle: I am always happy to write references for past and present students. This includes some information to make the process easier for eceryone
+title: Supervision of Masters' theses
+subtitle: Useful information for students considering a Masters' degree under my supervision.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Useful information for students considering a Masters' degree under my supervision.
 
 # Link this post with a project
-projects: []
+projects: [graduate teaching]
 
 # Date published
-date: "2021-04-125T00:00:00Z"
+date: "2021-04-26T00:00:00Z"
 
 # Date updated
-lastmod: "2021-04-125T00:00:00Z"
+lastmod: "2021-04-26T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Photo by John Schnobrich on Unsplash'
   focal_point: ""
   placement: 2
   preview_only: false

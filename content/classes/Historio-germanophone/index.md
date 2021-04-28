@@ -1,8 +1,8 @@
 ---
-title: Méthodologie de la recherche en histoire
-summary: Introduction to historical research and to historiography for first-year History Masters' students at EHESS. Taught 2011-2012 and 2012-2013.
+title: Historiographie et langues étrangères - allemand
+summary: Introduction to German-language historiography as well as subject-specific vocabulary for first-year History Masters' students at EHESS. Taught from 2008-2011.
 tags:
-- Methodology
+- German for Historians
 - Historiography
 - Graduate Teaching
 date: "2008-09-01T00:00:00Z"
@@ -12,7 +12,7 @@ organization: EHESS
 external_link: ""
 
 image:
-  caption: Photo by Amador Loureiro on Unsplash   
+  caption: Photo by Bram on Unsplash   
   focal_point: Smart
 
 links:
@@ -32,4 +32,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Collaborative blog written by the participants in 2012-2013 : [Blog Histoires de têtes](https://tetes.hypotheses.org/)

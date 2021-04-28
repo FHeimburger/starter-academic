@@ -25,7 +25,7 @@ experience:
   - title: Senior Lecturer in British History/Maîtresse de conférences en civilisation britannique
     company: Faculté des Lettres, Sorbonne Université
     company_url: ''
-    company_logo: lettres
+    company_logo: ''
     location: Paris
     date_start: '2015-09-01'
     date_end: ''
@@ -64,6 +64,15 @@ experience:
     date_start: '2008-10-01'
     date_end: '2011-09-30'
     description: Teaching methodology and historiography seminars at graduate level while working on PhD.
+
+  - title: Boursière de la Sélection Internationale
+    company: Ecole Normale Supérieure
+    company_url: ''
+    company_logo: ENS
+    location: Paris
+    date_start: '2005-09-01'
+    date_end: '2008-08-30'
+    description: Three-year scholarship including accommodation on the Paris campus.  
 
 design:
   columns: '2'

@@ -1,6 +1,6 @@
 ---
 title: Economic, Political, Social, and Cultural Change from 1815-1914
-summary: A second-year class on 19th-century Britain at Sorbonne Université
+summary: A second-year class on 19th-century Britain at Sorbonne Université. Taught from 2015-2016 onwards.
 tags:
 - British History
 - Undergraduate Teaching

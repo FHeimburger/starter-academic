@@ -1,6 +1,6 @@
 ---
 title: Political, Social, and Cultural History of Britain, 1485-1815
-summary: A first-year introduction to British History at Sorbonne Université
+summary: A first-year introduction to British History at Sorbonne Université. Taught from 2015-2016 onwards
 tags:
 - British History
 - Undergraduate Teaching

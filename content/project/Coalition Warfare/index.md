@@ -3,7 +3,7 @@ title: Coalition Warfare - Crimea to Corea
 summary: My main research focus is currently on military coalitions and international interventions from the mid-19th-century onwards
 tags:
 - Military coalitions
-date: "2016-04-27T00:00:00Z"
+date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

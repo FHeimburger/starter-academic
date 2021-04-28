@@ -4,7 +4,7 @@ summary: I have a long-standing interest in the impact of digital tools and meth
 tags:
 - 'Digital History'
 - 'Digital Humanities'
-date: "2021-04-26T00:00:00Z"
+date: "2019-04-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

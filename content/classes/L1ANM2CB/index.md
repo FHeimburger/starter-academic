@@ -4,7 +4,7 @@ summary: A first-year introduction to British History at Sorbonne Université. T
 tags:
 - British History
 - Undergraduate Teaching
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-27T00:00:00Z"
 organization: EHESS
 
 # Optional external URL for project (replaces project detail page).

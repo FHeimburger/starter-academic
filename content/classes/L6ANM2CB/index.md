@@ -4,7 +4,7 @@ summary: A third-year class on the British Empire and its legacy at Sorbonne Uni
 tags:
 - British History
 - Undergraduate Teaching
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-29T00:00:00Z"
 
 organization: EHESS
 

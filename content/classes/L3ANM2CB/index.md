@@ -4,7 +4,7 @@ summary: A second-year class on 19th-century Britain at Sorbonne Université. Ta
 tags:
 - British History
 - Undergraduate Teaching
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

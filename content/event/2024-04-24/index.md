@@ -35,7 +35,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: yes
+featured: true
 
 image:
   caption: ''
